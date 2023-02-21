@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border;
+}
+.container{
+  background-color: #ff0037;
+  padding: 10px;
+  margin: 50px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 30px;
+}
+.items{
+  background-color: #ff0037;
+  color: #fff;
+  font-size: 35px;
+  padding: 20px;
+  margin: 10px;
+  flex-grow: 2;
+}
